@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBase</string>
+    <string name="user_input">Usuario:</string>
+    <string name="password_input">Contraseña</string>
+</resources>
